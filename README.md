@@ -133,7 +133,4 @@ Main libraries used:
 
 -   Aman Agarwal
 
--   Pranav Kumar Gupta
-
--   Dhimanth Kumar Singh\
     *(Department of Computer Science, MIT Manipal)*
